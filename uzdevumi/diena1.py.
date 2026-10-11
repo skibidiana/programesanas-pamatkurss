@@ -1,0 +1,2 @@
+print("Strādāju no apakšmapes")
+
